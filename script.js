@@ -51,6 +51,12 @@ const music_list = [
         artist: 'Hà Boombadio Crocodilo',
         music: 'musics/music5.mp3'
     },
+    {
+        img: 'images/lastpage.jpg',
+        name: 'Trang Giấy Cuối Cùng',
+        artist: 'Nguyễn Thu Hà',
+        music: 'musics/music6.mp3'
+    }
 ];
 
 loadTrack(track_index);
